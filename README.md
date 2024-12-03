@@ -10,11 +10,12 @@ Este tema esta inspirado en la paletta de colores [RosePine Moon](https://rosepi
 Configuracion de las capturas en bitwig
 - Medios tonos: 4%
 - Nivel de negro: 92%
-- Lineas de la rejilla: 31%
+- Lineas de la rejilla: 63%
   
 ![Moon](img/moon.png)
 ![Mixer](img/mixer.png)
 ![TheGrid](img/the_grid.png)
+![PianoRoll and Browser](img/pianoroll.png)
 
 # Nota
 Agregare correciones a medida que yo lo use, por ahora hay algunos problemas que lo solucionaré a futuro. Por ejemplo los lineas del pianoroll no se aprecian lo solucionar pronto entro otras cosas pequeñas. 😊
