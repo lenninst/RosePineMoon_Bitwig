@@ -4,7 +4,7 @@ Este tema esta inspirado en la paletta de colores [RosePine Moon](https://rosepi
 
 # Instalacion 
 - Siga los pasos recomendados por [Berikai](https://github.com/Berikai/bitwig-theme-editor.git)
-- Descargue el archivo [`RosePineMoon.json`](RosePineMoon.json)
+- Descargue el archivo [`rosePineMoon.json`(RosePineMoon.json)
 
 # Capturas
 Configuracion de las capturas en bitwig
